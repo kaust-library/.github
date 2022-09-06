@@ -1,4 +1,4 @@
-# KAUST Library
+# Welcome to Our Library
 
 ![KAUST Library](/profile/kaust_library.jpg)
 
